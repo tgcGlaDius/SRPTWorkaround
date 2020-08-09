@@ -1,0 +1,3 @@
+retroarch /path/to/retroarch
+desmume /path/with spaces/works/as/well
+somegame C:\entire\path\to\somegame.exe
