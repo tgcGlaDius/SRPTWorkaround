@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="RSX Docker Container (f05f6763-13d9-47b9-b190-566715070c9e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/SRPTWorkaround" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bare_metal (1fab2a93-8d0b-41f8-ad27-9d20e66d0e81)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hyperv ubuntu (7ad11582-c1db-43fe-a0a3-e3b8acf13481)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.gBQut3L2w8" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="proxmox_server (02f714e3-3ab3-4533-9e7b-041043e49233)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
