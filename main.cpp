@@ -21,7 +21,7 @@ int main(int argc, char* argv[])
 		auto firstSpace = line.find_first_of(' ', 0);
 		option = line.substr(0, firstSpace);
 		path = line.substr(firstSpace + 1);
-        optionsMap[option] = path;
+        	optionsMap[option] = path;
 	}
 
 	if (optionsMap.find(argv[2]) != optionsMap.end()) {
